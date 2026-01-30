@@ -1,1 +1,2 @@
-Hello , This merge conflict from main and feature has been resolved
+Hello , This merge conflict from main , feature1 and feature2 has been resolved
+
