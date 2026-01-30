@@ -1,1 +1,1 @@
-Hello , This is feature1  branch content
+Hello , This merge conflict from main and feature has been resolved
